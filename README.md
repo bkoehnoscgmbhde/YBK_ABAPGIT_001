@@ -1,2 +1,2 @@
 # YBK_ABAPGIT_001
-abapGit KnowHow jetz
+abapGit KnowHow jetzt!
